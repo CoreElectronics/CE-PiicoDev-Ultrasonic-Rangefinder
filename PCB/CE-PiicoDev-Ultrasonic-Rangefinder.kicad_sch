@@ -7,7 +7,7 @@
   (title_block
     (title "PiicoDev Ultrasonic Rangefinder")
     (date "2022-12-01")
-    (rev "00")
+    (rev "10")
     (company "Core Electronics")
     (comment 1 "Designed by Michael Ruppe for")
     (comment 2 "PiicoDev and the PiicoDev logo are trademarks of Core Electronics Pty Ltd.")
